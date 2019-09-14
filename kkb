@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am mlakk on github.
+  * I am wyough (https://keybase.io/wyough) on keybase.
+  * I have a public key ASDy6HUHUFkCuAB7HY60TKvoGH1_QmQD5QMBG-s8yKRSZQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f2e87507505902b8007b1d8eb44cabe8187d7f426403e503011beb3cc8a452650a",
+      "host": "keybase.io",
+      "kid": "0120f2e87507505902b8007b1d8eb44cabe8187d7f426403e503011beb3cc8a452650a",
+      "uid": "d286d6db189c1e4e60442c27470bab19",
+      "username": "wyough"
+    },
+    "merkle_root": {
+      "ctime": 1568470516,
+      "hash": "e0a65b36a911008fdf49035ef735939dd1b773974a6442ccc813472ad237eefdd49c196594aa3cfc34d18d44ccc55380c757bac8b0fc59fbe1eef989ac1ffc9d",
+      "hash_meta": "4d3528b1224f94c300fd16692017ecb5545db19eab8b1b261bb56626cc3ccb88",
+      "seqno": 7313849
+    },
+    "service": {
+      "entropy": "EbfkY+4ELJt4EQcP/XnqBX7F",
+      "name": "github",
+      "username": "mlakk"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568470526,
+  "expire_in": 504576000,
+  "prev": "3f411ea04f08b0025a305b03a4435ad40feecce6859d198a77a58a65c9c9b7a5",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASDy6HUHUFkCuAB7HY60TKvoGH1_QmQD5QMBG-s8yKRSZQo](https://keybase.io/wyough), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8uh1B1BZArgAex2OtEyr6Bh9f0JkA+UDARvrPMikUmUKp3BheWxvYWTESpcCBcQgP0EeoE8IsAJaMFsDpENa1A/uzOaFnRmKd6WKZcnJt6XEIKQFzjK5ryXO8MY4cH0vPQr2krPU1OBua58D667YlHgjAgHCo3NpZ8RArqMNcGwrvBKyTnpZRewylUbdixcXN1fFi0TZJUvP987GwERZstyr1vpRrsZiko57/zw/IAnZ977sJXkzUqAlCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIICemA4OriZeVpJ9yzxBZ+OYfeceKzXE6mgcynmI3DfVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/wyough
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id wyough
+```
